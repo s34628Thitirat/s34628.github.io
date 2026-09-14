@@ -6,12 +6,12 @@
 
 body {
     font-family: Arial, "Noto Sans Thai", sans-serif;
-    color: #6d4b82;
+    color: #5e4775;
     background: linear-gradient(
         135deg,
-        #ffd6eb,
-        #fff0c9,
-        #ddd8ff
+        #d8c4ff,
+        #efd9ff,
+        #c9d8ff
     );
     min-height: 100vh;
 }
@@ -105,10 +105,10 @@ h3 {
     text-decoration: none;
     color: white;
     background: linear-gradient(
-        90deg,
-        #ee65a9,
-        #c36ce8
-    );
+    90deg,
+    #9b7bea,
+    #c084e8
+);
     box-shadow: 0 5px 15px rgba(200,80,170,0.25);
 }
 
