@@ -206,3 +206,12 @@ h3 {
         height: 120px;
     }
                      }
+/* สีพื้นหลังเฉพาะหน้าแรก */
+body.home {
+    background: linear-gradient(
+        135deg,
+        #d9f3ff,
+        #e8ddff,
+        #fff0f7
+    );
+}
